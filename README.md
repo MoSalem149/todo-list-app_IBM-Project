@@ -53,4 +53,4 @@ Below are some screenshots showing different stages of the app:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MoSalem149v2/ttodo-list-app_IBM-Task.git
+   git clone https://github.com/MoSalem149/todo-list-app_IBM-Project.git
